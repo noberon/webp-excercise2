@@ -1,0 +1,32 @@
+head{
+    background-color: azure;
+}
+h1{
+    background-color: aquamarine;
+}
+
+h2{
+    background-color: rgb(34, 222, 222);
+}
+pre {
+    margin: 1em 0;
+    padding: 1em;
+    border-radius: 5px;
+    background: #25292f;
+    color: #fff;
+    overflow-x: auto; /* ⭐ */
+    -webkit-overflow-scrolling: touch; /* ⭐ */
+  }
+header{
+    background-color: bisque;
+}
+
+main{
+    background-color: azure;
+}
+
+footer{
+    height: 100px;
+    background-color: cadetblue;
+
+}
